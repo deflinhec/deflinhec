@@ -2,6 +2,8 @@
 
 Welcome to my Github Page, I'm a self-taught passionate full stack developer.
 
+I do open source projects and contribute if I find them interesting and useful.
+
 <code><img height="20" alt="go" src="https://go.dev/images/favicon-gopher.png"></code>
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
