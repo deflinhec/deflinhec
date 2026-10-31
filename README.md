@@ -1,38 +1,45 @@
-### Hi there 👋
+# Hi, I'm Deflinhec 👋
 
-Welcome to my Github Page, I'm a self-taught passionate full stack developer.
+**Software Engineer · Tech Lead · System Architect**
 
-I do open source projects and contribute if I find them interesting and useful.
+I’m a self-taught software engineer with **8+ years of experience** building and operating software across backend services, distributed systems, cloud infrastructure, web applications, and game platforms.
 
-<code><img height="20" alt="go" src="https://go.dev/images/favicon-gopher.png"></code>
-<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="20" alt="lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+I enjoy turning complex requirements into pragmatic architectures — from designing products from scratch to improving the reliability, performance, and developer experience of production systems.
 
-<!--
-**deflinhec/deflinhec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I work on
 
-Here are some ideas to get you started:
+- **Backend & distributed systems:** Go, C++, Lua, PHP/Laravel, Node.js, TypeScript, REST, gRPC, WebSockets, and event-driven services.
+- **Cloud & platform engineering:** AWS, Docker, Docker Swarm, Kubernetes, Nginx, HAProxy, CI/CD, observability, and production operations.
+- **Data infrastructure:** MySQL, MariaDB, PostgreSQL, Redis, MongoDB, ClickHouse, TiDB, Kafka, and Debezium CDC.
+- **Full-stack & game development:** Next.js, Nuxt, Vue, Godot, Cocos2d-x, and real-time multiplayer systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected engineering impact
 
-![Deflinhec Github Stats](https://github-readme-stats.vercel.app/api?username=deflinhec&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]) ![Deflinhec Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deflinhec&title_color=fff&text_color=9f9f9f&bg_color=151515&layout=compact&hide_border=true) 
+- Consolidated infrastructure from **12 servers to 4** while maintaining workload capacity.
+- Improved CDN cache hit rate from **20% to 90%**.
+- Extended a Laravel application for cluster-aware operation, reducing repetitive deployment and operational workflows.
+- Worked on high-availability architectures, data migration and CDC pipelines, monitoring, and secure production deployments.
 
-I’m currently working on system architecture design for game development, 
-which covers `Go`, `Lua`, `Typescript`, `Javascript`, `GDScript`, `Angular`, `Vue`, `Web3`, `TronWeb`, `gRPC` and `Restful APIs`, 
-and is looking for helps to speed up the progress. If anyone is interested, reach me through deflinhec@gmail.com
+### Open source
+
+| Project | What it does |
+| --- | --- |
+| [laravel-clickhouse](https://github.com/deflinhec/laravel-clickhouse) | ClickHouse integration for Laravel, including migrations, connection management, and cluster support. |
+| [runtimelua](https://github.com/deflinhec/runtimelua) | Go-based Lua runtime with events, Redis pub/sub, ZeroMQ support, and hot reload. |
+| [GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet) | GDScript plugin for downloading and consuming Google Sheets data in Godot. |
+| [gsx2jsonpp](https://github.com/deflinhec/gsx2jsonpp) | C/C++ service for exposing Google Sheets data as clean JSON. |
+
+### How I approach engineering
+
+I care about **simple, maintainable designs**, **reliable production systems**, and **developer experience**. I like choosing technologies based on the actual constraints of a product and team rather than following trends for their own sake.
+
+I'm always interested in exchanging ideas and contributing to useful open-source projects.
+
+**Get in touch:** [Email](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
+
+<details>
+<summary>GitHub activity</summary>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deflinhec&show_icons=true&hide_border=true)
+
+</details>
