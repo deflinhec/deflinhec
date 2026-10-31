@@ -8,7 +8,9 @@
 
 I’m a self-taught software engineer with **10+ years of experience** building and operating software across backend services, distributed systems, cloud infrastructure, web applications, and game platforms.
 
-I enjoy turning complex requirements into pragmatic architectures — from designing products from scratch to improving the reliability, performance, and developer experience of production systems.
+I take a **business-first approach to engineering**: I dive deep into customers' workflows, operational challenges, and business goals to understand what they actually need. From there, I design and build **tailored business models, platforms, and technical solutions** that fit their processes, scale with their growth, and deliver measurable value.
+
+I bridge business strategy and hands-on engineering — translating ambiguous requirements into practical system architectures, from zero-to-one product development to optimizing the reliability, performance, and developer experience of production platforms.
 
 ### Tech stack
 
