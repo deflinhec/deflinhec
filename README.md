@@ -45,13 +45,6 @@ I enjoy turning complex requirements into pragmatic architectures — from desig
 - **Data infrastructure:** MySQL, MariaDB, PostgreSQL, Redis, MongoDB, ClickHouse, TiDB, Kafka, and Debezium CDC.
 - **Full-stack & game development:** Next.js, Nuxt, Vue, Godot, Cocos2d-x, and real-time multiplayer systems.
 
-### Selected engineering impact
-
-- Consolidated infrastructure from **12 servers to 4** while maintaining workload capacity.
-- Improved CDN cache hit rate from **20% to 90%**.
-- Extended a Laravel application for cluster-aware operation, reducing repetitive deployment and operational workflows.
-- Worked on high-availability architectures, data migration and CDC pipelines, monitoring, and secure production deployments.
-
 ### Hibira open-source ecosystem
 
 I'm building [Hibira](https://hibira.io), a hosted realtime platform compatible with the Pusher Channels protocol. Its [open-source organization](https://github.com/hibira-io) includes SDKs, framework integrations, and tooling for realtime applications, collaboration, and AI streaming.
