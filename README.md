@@ -17,13 +17,6 @@ I approach engineering **from the customer's business outward**. I dive into wor
 - **Scalable backend & realtime systems** — build distributed services, event-driven architectures, APIs, and WebSocket-powered experiences.
 - **Platform reliability & developer experience** — improve deployments, observability, infrastructure efficiency, and maintainability.
 
-### Selected impact
-
-- Consolidated infrastructure from **12 servers to 4** while maintaining workload capacity.
-- Raised CDN cache hit rate from **20% to 90%**.
-- Made a Laravel platform **cluster-aware**, reducing repetitive deployment and operational work.
-- Delivered production improvements involving high availability, CDC/data migration, monitoring, and deployment security.
-
 ## Building Hibira
 
 I’m building **[Hibira](https://hibira.io)** — a hosted, Pusher-compatible realtime platform. The **[hibira-io](https://github.com/hibira-io)** open-source ecosystem provides SDKs and integrations for realtime applications, collaboration, push notifications, and AI streaming.
