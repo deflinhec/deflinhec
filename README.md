@@ -52,15 +52,6 @@ I enjoy turning complex requirements into pragmatic architectures — from desig
 - Extended a Laravel application for cluster-aware operation, reducing repetitive deployment and operational workflows.
 - Worked on high-availability architectures, data migration and CDC pipelines, monitoring, and secure production deployments.
 
-### Open source
-
-| Project | What it does |
-| --- | --- |
-| [laravel-clickhouse](https://github.com/deflinhec/laravel-clickhouse) | ClickHouse integration for Laravel, including migrations, connection management, and cluster support. |
-| [runtimelua](https://github.com/deflinhec/runtimelua) | Go-based Lua runtime with events, Redis pub/sub, ZeroMQ support, and hot reload. |
-| [GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet) | GDScript plugin for downloading and consuming Google Sheets data in Godot. |
-| [gsx2jsonpp](https://github.com/deflinhec/gsx2jsonpp) | C/C++ service for exposing Google Sheets data as clean JSON. |
-
 ### Hibira open-source ecosystem
 
 I'm building [Hibira](https://hibira.io), a hosted realtime platform compatible with the Pusher Channels protocol. Its [open-source organization](https://github.com/hibira-io) includes SDKs, framework integrations, and tooling for realtime applications, collaboration, and AI streaming.
@@ -84,6 +75,13 @@ Explore more integrations at **[github.com/hibira-io](https://github.com/hibira-
 I care about **simple, maintainable designs**, **reliable production systems**, and **developer experience**. I like choosing technologies based on the actual constraints of a product and team rather than following trends for their own sake.
 
 I'm always interested in exchanging ideas and contributing to useful open-source projects.
+
+<details>
+<summary>Other open-source projects</summary>
+
+A few personal projects and experiments: [laravel-clickhouse](https://github.com/deflinhec/laravel-clickhouse), [runtimelua](https://github.com/deflinhec/runtimelua), [GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet), and [gsx2jsonpp](https://github.com/deflinhec/gsx2jsonpp).
+
+</details>
 
 **Get in touch:** [Email](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
 
