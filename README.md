@@ -61,6 +61,24 @@ I enjoy turning complex requirements into pragmatic architectures — from desig
 | [GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet) | GDScript plugin for downloading and consuming Google Sheets data in Godot. |
 | [gsx2jsonpp](https://github.com/deflinhec/gsx2jsonpp) | C/C++ service for exposing Google Sheets data as clean JSON. |
 
+### Hibira open-source ecosystem
+
+I'm building [Hibira](https://hibira.io), a hosted realtime platform compatible with the Pusher Channels protocol. Its [open-source organization](https://github.com/hibira-io) includes SDKs, framework integrations, and tooling for realtime applications, collaboration, and AI streaming.
+
+[![Hibira](https://img.shields.io/badge/Hibira-Realtime_Platform-0f766e?style=for-the-badge)](https://hibira.io)
+[![GitHub organization](https://img.shields.io/badge/GitHub-hibira--io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibira-io)
+
+| Project | What it does |
+| --- | --- |
+| [hibira-io/laravel](https://github.com/hibira-io/laravel) | Laravel broadcasting, push notifications, webhooks, and AI streaming. |
+| [hibira-io/react](https://github.com/hibira-io/react) | React hooks for channels, presence, client events, and shared AI streams. |
+| [hibira-io/nuxt](https://github.com/hibira-io/nuxt) | SSR-safe realtime integration for Nuxt applications. |
+| [hibira-io/spaces-js](https://github.com/hibira-io/spaces-js) | Collaborative presence, live cursors, component locks, and follow mode. |
+| [hibira-io/terraform-provider-hibira](https://github.com/hibira-io/terraform-provider-hibira) | Manage Hibira resources using Terraform. |
+| [hibira-io/godot](https://github.com/hibira-io/godot) | Godot realtime networking, multiplayer rooms, and matchmaking. |
+
+Explore more integrations at **[github.com/hibira-io](https://github.com/hibira-io)**.
+
 ### How I approach engineering
 
 I care about **simple, maintainable designs**, **reliable production systems**, and **developer experience**. I like choosing technologies based on the actual constraints of a product and team rather than following trends for their own sake.
