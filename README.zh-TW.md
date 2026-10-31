@@ -1,42 +1,42 @@
-# 嗨，我是 Deflinhec 👋
+# Hi，我是 Deflinhec 👋
 
 [English](./README.md) | **繁體中文**
 
-**軟體工程師 · 技術主管 · 系統架構師**
+**軟體工程師 · Tech Lead · 系統架構師**
 
-我是一名自學出身、擁有 **10 年以上經驗**的軟體工程師，專注於產品與平台的設計、開發及維運，涵蓋後端與分散式系統、雲端基礎設施、全端應用以及遊戲技術。
+我是一名自學出身、擁有 **10 年以上實務經驗**的軟體工程師。從後端與分散式系統、雲端架構到全端開發與遊戲平台，都有參與產品從規劃、開發到上線維運的經驗。
 
-我習慣**從客戶的商業需求出發思考工程問題**：深入了解實際工作流程、營運痛點與商業目標，再把需求轉化為符合業務運作方式的客製化平台、務實架構與技術解決方案。
+我相信**技術應該用來解決實際的商業問題**。在規劃系統之前，我會先深入了解客戶的營運模式、工作流程與遇到的問題，再依照需求設計適合的商業流程、平台功能與系統架構，而不是先決定技術、再找問題來套用。
 
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-2563eb?style=flat-square&logo=gmail&logoColor=white)](mailto:deflinhec@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/deflinhec?style=flat-square&logo=github&label=Followers&color=24292f)](https://github.com/deflinhec?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=deflinhec&style=flat-square&color=0e7490)](https://github.com/deflinhec)
 
-## 我的核心能力
+## 我擅長的事
 
-- **以商業需求為導向的方案設計** — 深入探索客戶需求、釐清業務規格，依照實際流程規劃平台功能。
-- **端到端產品工程** — 從零開始將想法落實到正式環境，根據產品、團隊與成長階段選擇適合的技術。
-- **可擴展後端與即時系統** — 建構分散式服務、事件驅動架構、API 與 WebSocket 即時應用。
-- **平台可靠性與開發者體驗** — 優化部署、可觀測性、基礎設施效率與系統可維護性。
+- **從需求到解決方案** — 釐清客戶真正想解決的問題，理解商業模式與日常作業流程，設計符合實際需求的平台。
+- **從零打造產品** — 從需求分析、技術選型、架構設計到開發上線，根據產品規模與團隊條件做出務實的選擇。
+- **後端與即時系統** — 開發分散式服務、事件驅動系統、API 與 WebSocket 應用，兼顧效能與擴充性。
+- **系統維運與開發效率** — 改善部署流程、監控與問題排查機制，降低維運負擔，讓團隊更有效率地交付產品。
 
-## 打造 Hibira
+## 我正在開發的 Hibira
 
-我正在打造 **[Hibira](https://hibira.io)**，一個相容 Pusher Channels 協定的託管式即時通訊平台。**[hibira-io](https://github.com/hibira-io)** 開源生態系提供 SDK 與框架整合，支援即時應用、多人協作、推播通知及 AI 串流。
+**[Hibira](https://hibira.io)** 是我正在開發的即時通訊服務，支援 Pusher Channels 協定，讓開發者能更容易在產品中加入即時功能。**[hibira-io](https://github.com/hibira-io)** 則提供各種開源 SDK 與框架整合，涵蓋即時訊息、多人協作、推播通知與 AI 回應串流。
 
 [![Hibira](https://img.shields.io/badge/Hibira-Realtime_Platform-0f766e?style=for-the-badge)](https://hibira.io)
 [![Open source](https://img.shields.io/badge/GitHub-hibira--io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibira-io)
 
-| 整合專案 | 主要用途 |
+| 專案 | 功能 |
 | --- | --- |
 | [Laravel](https://github.com/hibira-io/laravel) | 廣播、推播通知、Webhook 與 AI 串流 |
-| [React](https://github.com/hibira-io/react) · [Nuxt](https://github.com/hibira-io/nuxt) | 即時介面、在線狀態與多人共享 AI 串流 |
-| [Spaces JS](https://github.com/hibira-io/spaces-js) | 即時協作、游標同步與元件鎖定 |
-| [Terraform Provider](https://github.com/hibira-io/terraform-provider-hibira) | 以基礎設施即程式碼管理 Hibira 資源 |
+| [React](https://github.com/hibira-io/react) · [Nuxt](https://github.com/hibira-io/nuxt) | 即時互動、使用者在線狀態與多人共享 AI 串流 |
+| [Spaces JS](https://github.com/hibira-io/spaces-js) | 多人協作、游標同步與元件鎖定 |
+| [Terraform Provider](https://github.com/hibira-io/terraform-provider-hibira) | 透過 Terraform 管理 Hibira 資源 |
 | [Godot](https://github.com/hibira-io/godot) | 多人遊戲房間、狀態同步與配對 |
 
-[探索 Hibira 所有開源專案](https://github.com/hibira-io)
+[查看更多 Hibira 開源專案](https://github.com/hibira-io)
 
-## GitHub 活動
+## GitHub 貢獻紀錄
 
 <a href="https://github.com/stats-organization/github-stats-extended">
   <picture>
@@ -45,9 +45,9 @@
   </picture>
 </a>
 
-## 技術工具箱
+## 技術領域與工具
 
-我的主要技術涵蓋後端工程、基礎設施、資料系統與即時應用開發。
+以下是我在開發與維運工作中使用的技術與工具。
 
 **後端與程式語言**
 
@@ -84,7 +84,7 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white)
 
-**資料庫、分析與訊息系統**
+**資料庫、資料分析與訊息佇列**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -114,8 +114,12 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat-square&logo=socketdotio&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 
-## 工程理念
+## 我的工程理念
 
-**先理解問題，優先採用與整合，而非重新發明輪子。** 我傾向善用成熟技術、經過驗證的設計模式與既有工具，避免不必要的重複開發。重點是將適合的元件整合成簡單、易維護且符合實際商業需求的解決方案；只有當現有選擇無法滿足需求時，才自行打造新的技術。我重視務實取捨、可靠性與開發者體驗，勝過追逐技術流行。
+**先搞清楚問題，再選擇解法；能採用、能整合，就不必重新造輪子。**
 
-**聯絡方式：** [deflinhec@gmail.com](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
+我偏好從成熟的技術、現成工具與經過驗證的做法開始，依照需求把它們整合成穩定、好維護的系統。只有在既有方案確實無法滿足需求時，才考慮自行開發。
+
+對我來說，技術選型沒有標準答案。能解決問題、符合成本效益、讓團隊容易維護，而且能隨業務成長持續調整，才是好的工程決策。
+
+**歡迎交流：** [deflinhec@gmail.com](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
