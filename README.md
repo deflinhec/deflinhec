@@ -71,13 +71,6 @@ I care about **simple, maintainable designs**, **reliable production systems**, 
 
 I'm always interested in exchanging ideas and contributing to useful open-source projects.
 
-<details>
-<summary>Other open-source projects</summary>
-
-A few personal projects and experiments: [laravel-clickhouse](https://github.com/deflinhec/laravel-clickhouse), [runtimelua](https://github.com/deflinhec/runtimelua), [GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet), and [gsx2jsonpp](https://github.com/deflinhec/gsx2jsonpp).
-
-</details>
-
 **Get in touch:** [Email](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
 
 ### GitHub activity
