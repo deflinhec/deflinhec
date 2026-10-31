@@ -81,6 +81,6 @@ A few personal projects and experiments: [laravel-clickhouse](https://github.com
 <details>
 <summary>GitHub activity</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deflinhec&show_icons=true&hide_border=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=deflinhec&show_icons=true&hide_border=true)
 
 </details>
