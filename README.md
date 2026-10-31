@@ -4,24 +4,24 @@
 
 **Software Engineer · Tech Lead · System Architect**
 
-I’m a self-taught software engineer with **10+ years of experience** designing, building, and operating products and platforms — from backend and distributed systems to cloud infrastructure, full-stack applications, and game technology.
+I'm a self-taught software engineer with **10+ years of hands-on experience** building and running software products. My work spans backend and distributed systems, cloud infrastructure, full-stack applications, and game platforms.
 
-I approach engineering **from the customer's business outward**. I dive into workflows, operational challenges, and commercial goals, then translate what I learn into tailored platforms, pragmatic architectures, and solutions that fit how the business actually operates.
+I believe **good engineering starts with understanding the business**. Before choosing a stack or designing a system, I take the time to understand how customers operate, where they're running into problems, and what they're trying to achieve. Then I turn those insights into practical solutions, tailored workflows, and platforms built around their needs.
 
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-2563eb?style=flat-square&logo=gmail&logoColor=white)](mailto:deflinhec@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/deflinhec?style=flat-square&logo=github&label=Followers&color=24292f)](https://github.com/deflinhec?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=deflinhec&style=flat-square&color=0e7490)](https://github.com/deflinhec)
 
-## What I bring to the table
+## What I do
 
-- **Business-driven solution design** — discover customer needs, refine business requirements, and shape platform capabilities around real workflows.
-- **End-to-end product engineering** — take ideas from zero to production, selecting technology to match the product, team, and growth stage.
-- **Scalable backend & realtime systems** — build distributed services, event-driven architectures, APIs, and WebSocket-powered experiences.
-- **Platform reliability & developer experience** — improve deployments, observability, infrastructure efficiency, and maintainability.
+- **Turn business needs into working solutions** — get to the root of customer problems, understand their workflows, and design platforms that make sense for their business.
+- **Build products from the ground up** — work from requirements and architecture through development and launch, choosing tools that fit the product and the team.
+- **Build backend and real-time systems** — develop distributed services, event-driven applications, APIs, and WebSocket-based features with performance and scalability in mind.
+- **Make systems easier to run and maintain** — streamline deployments, improve monitoring and troubleshooting, and reduce day-to-day operational overhead.
 
-## Building Hibira
+## What I'm building: Hibira
 
-I’m building **[Hibira](https://hibira.io)** — a hosted, Pusher-compatible realtime platform. The **[hibira-io](https://github.com/hibira-io)** open-source ecosystem provides SDKs and integrations for realtime applications, collaboration, push notifications, and AI streaming.
+I'm building **[Hibira](https://hibira.io)**, a hosted real-time messaging platform compatible with the Pusher Channels protocol. The **[hibira-io](https://github.com/hibira-io)** open-source ecosystem makes it easier for developers to add real-time messaging, collaboration, push notifications, and AI streaming to their applications.
 
 [![Hibira](https://img.shields.io/badge/Hibira-Realtime_Platform-0f766e?style=for-the-badge)](https://hibira.io)
 [![Open source](https://img.shields.io/badge/GitHub-hibira--io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibira-io)
@@ -34,9 +34,9 @@ I’m building **[Hibira](https://hibira.io)** — a hosted, Pusher-compatible r
 | [Terraform Provider](https://github.com/hibira-io/terraform-provider-hibira) | Infrastructure as code for Hibira resources |
 | [Godot](https://github.com/hibira-io/godot) | Multiplayer rooms, synchronization, and matchmaking |
 
-[Explore the full Hibira organization](https://github.com/hibira-io)
+[Explore more Hibira open-source projects](https://github.com/hibira-io)
 
-## GitHub activity
+## GitHub contributions
 
 <a href="https://github.com/stats-organization/github-stats-extended">
   <picture>
@@ -45,9 +45,9 @@ I’m building **[Hibira](https://hibira.io)** — a hosted, Pusher-compatible r
   </picture>
 </a>
 
-## Technical toolbox
+## Technologies I work with
 
-My primary tools span backend engineering, infrastructure, data systems, and realtime application development.
+A selection of the languages, frameworks, and tools I use across development and production operations.
 
 **Backend & languages**
 
@@ -114,8 +114,12 @@ My primary tools span backend engineering, infrastructure, data systems, and rea
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat-square&logo=socketdotio&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 
-## Engineering philosophy
+## How I approach engineering
 
-**Understand the problem first. Adopt and integrate before inventing.** I favor proven technologies, established patterns, and existing tools over unnecessary reinvention. I focus on connecting the right components into simple, maintainable solutions that fit real business needs — building something new only when existing options cannot meet the requirements. Thoughtful trade-offs, reliability, and developer experience matter more to me than chasing buzzwords.
+**Understand the problem first. Adopt and integrate before reinventing the wheel.**
+
+I'd rather start with proven tools and established approaches than build something from scratch just because I can. The goal is to bring the right pieces together into a reliable, maintainable system that solves the actual problem. When existing options fall short, that's when custom development makes sense.
+
+To me, good engineering is about making thoughtful trade-offs: balancing business needs, cost, reliability, and long-term maintainability. The best solution isn't necessarily the newest or most sophisticated one — it's the one that works for the people who depend on it.
 
 **Let's connect:** [deflinhec@gmail.com](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
