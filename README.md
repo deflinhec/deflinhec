@@ -2,7 +2,7 @@
 
 **Software Engineer · Tech Lead · System Architect**
 
-I’m a self-taught software engineer with **8+ years of experience** building and operating software across backend services, distributed systems, cloud infrastructure, web applications, and game platforms.
+I’m a self-taught software engineer with **10+ years of experience** building and operating software across backend services, distributed systems, cloud infrastructure, web applications, and game platforms.
 
 I enjoy turning complex requirements into pragmatic architectures — from designing products from scratch to improving the reliability, performance, and developer experience of production systems.
 
