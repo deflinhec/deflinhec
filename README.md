@@ -80,4 +80,5 @@ A few personal projects and experiments: [laravel-clickhouse](https://github.com
 
 ### GitHub activity
 
-[View my contributions and recent activity on GitHub](https://github.com/deflinhec?tab=overview)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deflinhec&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
