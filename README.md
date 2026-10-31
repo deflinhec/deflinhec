@@ -1,5 +1,7 @@
 # Hi, I'm Deflinhec 👋
 
+[English](./README.md) | [繁體中文](./README.zh-TW.md)
+
 **Software Engineer · Tech Lead · System Architect**
 
 I’m a self-taught software engineer with **10+ years of experience** designing, building, and operating products and platforms — from backend and distributed systems to cloud infrastructure, full-stack applications, and game technology.
