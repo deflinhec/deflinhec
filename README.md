@@ -2,17 +2,46 @@
 
 **Software Engineer · Tech Lead · System Architect**
 
-[![GitHub followers](https://img.shields.io/github/followers/deflinhec?style=for-the-badge&logo=github&label=Followers&color=24292f)](https://github.com/deflinhec?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=deflinhec&style=for-the-badge&color=0e7490)](https://github.com/deflinhec)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deflinhec@gmail.com)
+I’m a self-taught software engineer with **10+ years of experience** designing, building, and operating products and platforms — from backend and distributed systems to cloud infrastructure, full-stack applications, and game technology.
 
-I’m a self-taught software engineer with **10+ years of experience** building and operating software across backend services, distributed systems, cloud infrastructure, web applications, and game platforms.
+I approach engineering **from the customer's business outward**. I dive into workflows, operational challenges, and commercial goals, then translate what I learn into tailored platforms, pragmatic architectures, and solutions that fit how the business actually operates.
 
-I take a **business-first approach to engineering**: I dive deep into customers' workflows, operational challenges, and business goals to understand what they actually need. From there, I design and build **tailored business models, platforms, and technical solutions** that fit their processes, scale with their growth, and deliver measurable value.
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-2563eb?style=flat-square&logo=gmail&logoColor=white)](mailto:deflinhec@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/deflinhec?style=flat-square&logo=github&label=Followers&color=24292f)](https://github.com/deflinhec?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=deflinhec&style=flat-square&color=0e7490)](https://github.com/deflinhec)
 
-I bridge business strategy and hands-on engineering — translating ambiguous requirements into practical system architectures, from zero-to-one product development to optimizing the reliability, performance, and developer experience of production platforms.
+## What I bring to the table
 
-### GitHub activity
+- **Business-driven solution design** — discover customer needs, refine business requirements, and shape platform capabilities around real workflows.
+- **End-to-end product engineering** — take ideas from zero to production, selecting technology to match the product, team, and growth stage.
+- **Scalable backend & realtime systems** — build distributed services, event-driven architectures, APIs, and WebSocket-powered experiences.
+- **Platform reliability & developer experience** — improve deployments, observability, infrastructure efficiency, and maintainability.
+
+### Selected impact
+
+- Consolidated infrastructure from **12 servers to 4** while maintaining workload capacity.
+- Raised CDN cache hit rate from **20% to 90%**.
+- Made a Laravel platform **cluster-aware**, reducing repetitive deployment and operational work.
+- Delivered production improvements involving high availability, CDC/data migration, monitoring, and deployment security.
+
+## Building Hibira
+
+I’m building **[Hibira](https://hibira.io)** — a hosted, Pusher-compatible realtime platform. The **[hibira-io](https://github.com/hibira-io)** open-source ecosystem provides SDKs and integrations for realtime applications, collaboration, push notifications, and AI streaming.
+
+[![Hibira](https://img.shields.io/badge/Hibira-Realtime_Platform-0f766e?style=for-the-badge)](https://hibira.io)
+[![Open source](https://img.shields.io/badge/GitHub-hibira--io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibira-io)
+
+| Integration | Focus |
+| --- | --- |
+| [Laravel](https://github.com/hibira-io/laravel) | Broadcasting, push notifications, webhooks, and AI streaming |
+| [React](https://github.com/hibira-io/react) · [Nuxt](https://github.com/hibira-io/nuxt) | Realtime UI, presence, and shared AI streams |
+| [Spaces JS](https://github.com/hibira-io/spaces-js) | Live collaboration, cursors, and component locks |
+| [Terraform Provider](https://github.com/hibira-io/terraform-provider-hibira) | Infrastructure as code for Hibira resources |
+| [Godot](https://github.com/hibira-io/godot) | Multiplayer rooms, synchronization, and matchmaking |
+
+[Explore the full Hibira organization](https://github.com/hibira-io)
+
+## GitHub activity
 
 <a href="https://github.com/stats-organization/github-stats-extended">
   <picture>
@@ -21,7 +50,9 @@ I bridge business strategy and hands-on engineering — translating ambiguous re
   </picture>
 </a>
 
-### Tech stack
+## Technical toolbox
+
+My primary tools span backend engineering, infrastructure, data systems, and realtime application development.
 
 **Backend & languages**
 
@@ -49,35 +80,8 @@ I bridge business strategy and hands-on engineering — translating ambiguous re
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-### What I work on
+## Engineering philosophy
 
-- **Backend & distributed systems:** Go, C++, Lua, PHP/Laravel, Node.js, TypeScript, REST, gRPC, WebSockets, and event-driven services.
-- **Cloud & platform engineering:** AWS, Docker, Docker Swarm, Kubernetes, Nginx, HAProxy, CI/CD, observability, and production operations.
-- **Data infrastructure:** MySQL, MariaDB, PostgreSQL, Redis, MongoDB, ClickHouse, TiDB, Kafka, and Debezium CDC.
-- **Full-stack & game development:** Next.js, Nuxt, Vue, Godot, Cocos2d-x, and real-time multiplayer systems.
+**Understand the problem first. Build for the business, not for the buzzwords.** I value simple, maintainable systems, informed trade-offs, and technology choices that improve outcomes for customers and engineering teams.
 
-### Hibira open-source ecosystem
-
-I'm building [Hibira](https://hibira.io), a hosted realtime platform compatible with the Pusher Channels protocol. Its [open-source organization](https://github.com/hibira-io) includes SDKs, framework integrations, and tooling for realtime applications, collaboration, and AI streaming.
-
-[![Hibira](https://img.shields.io/badge/Hibira-Realtime_Platform-0f766e?style=for-the-badge)](https://hibira.io)
-[![GitHub organization](https://img.shields.io/badge/GitHub-hibira--io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibira-io)
-
-| Project | What it does |
-| --- | --- |
-| [hibira-io/laravel](https://github.com/hibira-io/laravel) | Laravel broadcasting, push notifications, webhooks, and AI streaming. |
-| [hibira-io/react](https://github.com/hibira-io/react) | React hooks for channels, presence, client events, and shared AI streams. |
-| [hibira-io/nuxt](https://github.com/hibira-io/nuxt) | SSR-safe realtime integration for Nuxt applications. |
-| [hibira-io/spaces-js](https://github.com/hibira-io/spaces-js) | Collaborative presence, live cursors, component locks, and follow mode. |
-| [hibira-io/terraform-provider-hibira](https://github.com/hibira-io/terraform-provider-hibira) | Manage Hibira resources using Terraform. |
-| [hibira-io/godot](https://github.com/hibira-io/godot) | Godot realtime networking, multiplayer rooms, and matchmaking. |
-
-Explore more integrations at **[github.com/hibira-io](https://github.com/hibira-io)**.
-
-### How I approach engineering
-
-I care about **simple, maintainable designs**, **reliable production systems**, and **developer experience**. I like choosing technologies based on the actual constraints of a product and team rather than following trends for their own sake.
-
-I'm always interested in exchanging ideas and contributing to useful open-source projects.
-
-**Get in touch:** [Email](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
+**Let's connect:** [deflinhec@gmail.com](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
