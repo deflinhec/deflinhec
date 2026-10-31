@@ -114,6 +114,6 @@ My primary tools span backend engineering, infrastructure, data systems, and rea
 
 ## Engineering philosophy
 
-**Understand the problem first. Build for the business, not for the buzzwords.** I value simple, maintainable systems, informed trade-offs, and technology choices that improve outcomes for customers and engineering teams.
+**Understand the problem first. Adopt and integrate before inventing.** I favor proven technologies, established patterns, and existing tools over unnecessary reinvention. I focus on connecting the right components into simple, maintainable solutions that fit real business needs — building something new only when existing options cannot meet the requirements. Thoughtful trade-offs, reliability, and developer experience matter more to me than chasing buzzwords.
 
 **Let's connect:** [deflinhec@gmail.com](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
