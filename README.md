@@ -12,6 +12,15 @@ I take a **business-first approach to engineering**: I dive deep into customers'
 
 I bridge business strategy and hands-on engineering — translating ambiguous requirements into practical system architectures, from zero-to-one product development to optimizing the reliability, performance, and developer experience of production platforms.
 
+### GitHub activity
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=deflinhec&show_icons=true&theme=dark_github&hide_border=true" />
+    <img alt="Deflinhec GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=deflinhec&show_icons=true&theme=light_github&hide_border=true" />
+  </picture>
+</a>
+
 ### Tech stack
 
 **Backend & languages**
@@ -72,13 +81,3 @@ I care about **simple, maintainable designs**, **reliable production systems**, 
 I'm always interested in exchanging ideas and contributing to useful open-source projects.
 
 **Get in touch:** [Email](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
-
-### GitHub activity
-
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=deflinhec&show_icons=true&theme=dark_github&hide_border=true" />
-    <img alt="Deflinhec GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=deflinhec&show_icons=true&theme=light_github&hide_border=true" />
-  </picture>
-</a>
-
