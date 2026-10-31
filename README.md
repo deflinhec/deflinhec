@@ -78,9 +78,6 @@ A few personal projects and experiments: [laravel-clickhouse](https://github.com
 
 **Get in touch:** [Email](mailto:deflinhec@gmail.com) · [GitHub](https://github.com/deflinhec)
 
-<details>
-<summary>GitHub activity</summary>
+### GitHub activity
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=deflinhec&show_icons=true&hide_border=true)
-
-</details>
+[View my contributions and recent activity on GitHub](https://github.com/deflinhec?tab=overview)
